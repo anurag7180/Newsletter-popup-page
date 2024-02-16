@@ -58,7 +58,7 @@ input::placeholder{
 }
 
 
-.btn::hover {
+.btn:hover {
   cursor: pointer;
 }
 .para1 {
