@@ -56,6 +56,11 @@ input::placeholder{
   background-color: hsl(226deg 89% 54%);
   color: hsl(224deg 87% 94%);
 }
+
+
+.btn::hover {
+  cursor: pointer;
+}
 .para1 {
   text-align: left;
   padding: 5px;
